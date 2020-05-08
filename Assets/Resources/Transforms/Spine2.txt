@@ -1,0 +1,11 @@
+device	posX	posY	posZ	rotX	rotY	rotZ
+head	0	-60	-21
+head	8	-60	-19
+head	0	-60	-21
+head	-4	-60	-20
+head	0	-60	-21
+lh	16	26	-22
+lh	70	-32	-31
+lh	16	26	-22
+lh	70	-32	-31
+lh	16	26	-22
