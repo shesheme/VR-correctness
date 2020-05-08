@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Transforms>
+  <field Head="head" Waist="waist" />
+  <field3 Head="head" Waist="waist" />
+</Transforms>
